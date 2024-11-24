@@ -22,7 +22,7 @@ To run the Tin Dog project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Tin-Dog-Project.git
+   git clone https://github.com/Ranjan-n/Tin-Dog-Project.git
    ```
 
 2. **Navigate to the project directory**:
